@@ -69,13 +69,7 @@
     
 }
 @media (max-width:400px) {
-    .logo{
-        display: none;
-    }
-    .mn{
-        display: flex;
-        justify-content: space-between;
-    }
+    
     .avatar img{
         width: 100px;
         height: 100px;
